@@ -3,14 +3,6 @@
 <p align="center">
 	This project was part of the Analysis and Design of Information Systems course at NTUA.
 <p>
-	
-<p align="center">
-	<img alt="Byte Code Size" src="https://img.shields.io/github/languages/code-size/ChristosHadjichristofi/NodeRed-SmartHome?color=yellowgreen" />
-	<img alt="# Lines of Code" src="https://img.shields.io/tokei/lines/github/ChristosHadjichristofi/NodeRed-SmartHome?color=yellowgreen" />
-	<img alt="# Languages Used" src="https://img.shields.io/github/languages/count/ChristosHadjichristofi/NodeRed-SmartHome?color=yellow" />
-	<img alt="Top language" src="https://img.shields.io/github/languages/top/ChristosHadjichristofi/NodeRed-SmartHome?color=yellow" />
-	<img alt="Last commit" src="https://img.shields.io/github/last-commit/ChristosHadjichristofi/NodeRed-SmartHome?color=important" />
-</p>
 
 ## Technology Stack
 * [Apache Kafka](https://kafka.apache.org/) as message broker
